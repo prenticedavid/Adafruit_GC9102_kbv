@@ -7,7 +7,7 @@ products from Adafruit!
 Written by Limor Fried/Ladyada for Adafruit Industries.
 MIT license, all text above must be included in any redistribution
 
-To download. click the DOWNLOADS button in the top right corner, rename the uncompressed folder Adafruit_ILI9341. Check that the Adafruit_ILI9341 folder contains Adafruit_ILI9341.cpp and Adafruit_ILI9341.
+To download. click the DOWNLOADS button in the top right corner, rename the uncompressed folder Adafruit_GC9102_kbv. Check that the Adafruit_GC9102_kbv folder contains Adafruit_GC9102_kbv.cpp, Adafruit_GC9102_kbv.h, Adafruit_GC9106_kbv.cpp, Adafruit_GC9106_kbv.h
 
 Place the Adafruit_GC9102_kbv library folder your arduinosketchfolder/libraries/ folder. You may need to create the libraries subfolder if its your first library. Restart the IDE
 
