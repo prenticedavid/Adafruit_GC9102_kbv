@@ -171,7 +171,6 @@ void Adafruit_GC9106_kbv::begin(uint32_t freq) {
 
   if (!freq)
     freq = SPI_DEFAULT_FREQ;
-  freq = 8000000;
   initSPI(freq);
 
   if (_rst < 0) {                 // If no hardware reset pin...
